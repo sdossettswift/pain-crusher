@@ -1,0 +1,86 @@
+This App is a project with 2 main objectives: 
+(1) To build my first Rails App; and 
+(2) To build something useful for a dear friend who is dealing with a season of chronic orthopedic pain. 
+
+My goal is to have a web-based app with a UI similar to Clue, that will empower the user to keep track of pain sympotoms,
+triggers, pain management, and promote awareness and self-care. 
+
+Outline of Functionality
+
+Hi <User>! How are you feeling today?
+  BUTTONS: 
+    GREAT!
+    Good. 
+    Ok. 
+    Awful! 
+  
+    If response is "OK" or "Awful!" ->
+      "Sorry to hear that! What hurts?"
+        OPTIONS:
+          Head
+          Shoulders
+          Arms
+          Back
+          Hips
+          Legs
+          Gut
+          Feet
+          Muscles
+          PMS
+          
+      For each selection: On a scale of 1-10, rate severity!
+  
+    How did you sleep lastnight?
+      SLEEP OPTIONS:
+          Like a baby!
+          Fine. 
+          Couldn't fall asleep! 
+          I kept waking up. 
+          I stayed up on purpose!
+  
+  How did you manage your pain yesterday?
+    PAIN MGMT OPTIONS:
+        No pain to manage!
+        Mind over matter. 
+        Acupuncture
+        Massage
+        Stretching
+        OTC Pain Killers
+        Minimal Pain Killers (1-2)
+        A few pain killers (2-4)
+        Totally anesthesized myself (5+)
+      
+What did you do yesterday?
+    ACTIVITY OPTIONS:
+      Work 
+      Play 
+      Chores
+      Exercise
+      Treatment
+      Rest
+      Nothing
+      Dr. Appt
+  
+How are you managing your pain today?
+  PAIN MGMT OPTIONS
+  
+What did you do/are you doing today?
+  ACTIVITY OPTIONS
+
+What are you doing to take care of yourself today?
+  SELF CARE OPTIONS:
+    Reading
+    Bubble Bath
+    Booze
+    Treats
+    Medical Marijuana
+    Journaling 
+    Prayer/Meditation
+    Exercise
+    Beauty Ritual
+    Chocolate!
+    Pity party --> "OK! you have 3 mintues!"
+        START TIMER - after 3 minutes "Pity Party is now over!"
+        
+KEEP ON KEEPING ON! 
+  
